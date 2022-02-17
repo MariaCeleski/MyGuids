@@ -1,0 +1,16 @@
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\MyGuids.exe
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\MyGuids.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\MyGuids.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\MyGuids.runtimeconfig.dev.json
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\MyGuids.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\ref\MyGuids.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\bin\Debug\net5.0\MyGuids.pdb
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\ref\MyGuids.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.pdb
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\MyGuids\obj\Debug\net5.0\MyGuids.genruntimeconfig.cache
